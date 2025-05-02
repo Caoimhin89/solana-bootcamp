@@ -1,5 +1,7 @@
-* Learning Solana
-A series of 14 projects undertaken with the objective of learning to write Web3 applications for the Solana blockchain using the Rust programming language.
+# Learning Solana
+A series of 13 projects undertaken with the objective of learning to write Web3 applications for the Solana blockchain using the Rust programming language.
+
+From the course: `Solana Developer Bootcamp 2024 - Learn Blockchain and Full-Stack Web3 Development`
 
 
 Check current config:
@@ -24,18 +26,20 @@ solana config set -ut    # For testnet
 ```
 
 ## Dev Setup
-First, make sure you're connecting to the devnet
+First, make sure you're connecting to the devnet:
 
 ```
 solana config set -ud
-``
+```
 
-Next, request an airdrop of devnet SOL
+Next, request an airdrop of devnet SOL:
+
 ```
 solana airdrop 2
 ```
 
-Check your balance
+Check your balance:
+
 ```
 solana balance
 ```
