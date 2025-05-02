@@ -1,5 +1,5 @@
 * Learning Solana
-A series of projects undertaken with the main of learning to write Web3 applications for the Solana blockchain.
+A series of 14 projects undertaken with the objective of learning to write Web3 applications for the Solana blockchain using the Rust programming language.
 
 
 Check current config:
